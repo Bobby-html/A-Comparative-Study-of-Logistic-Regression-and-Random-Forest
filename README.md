@@ -1,0 +1,2 @@
+# A-Comparative-Study-of-Logistic-Regression-and-Random-Fores
+While Random Forests are popular for medical tasks, we tested if they truly outperform simpler models. Comparing Logistic Regression and Random Forest on heart failure data, a Balanced Logistic Regression achieved 0.64 recall versus 0.48. This proves well-tuned linear models can offer better clinical utility when sensitivity is the priority.
