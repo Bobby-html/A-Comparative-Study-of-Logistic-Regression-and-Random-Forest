@@ -1,5 +1,7 @@
 # Challenging the Complexity Paradigm: Model Comparison for Clinical Mortality Prediction
 
+Formal Paper: [Cite as DOI: 10.22541/au.176903302.25630356/v1]
+
 ## Project Overview
 This repository contains the source code and formal research paper for a comparative study between **Logistic Regression** and **Random Forest** models. The study investigates which architecture provides superior "Early Warning" sensitivity for heart failure patients[cite: 1, 2].
 
